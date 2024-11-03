@@ -1,2 +1,3 @@
 # demo-rep
-Learning git
+Learning git.
+sample description
